@@ -27,7 +27,7 @@ well as skeleton ~.c~ ~.h~ and ~doctest.h~ files.
 
 For Task A, create a file test-ascii.cpp as specified in the main
 lab. There should be a target in your Makefile *test-ascii* which will
-build test-ascii.cpp into an executable named *test-ascii*.
+build test-ascii.cpp into an executable named *test-ascii*. This file should have its own main and you should not use doctest to test it.
 
 ** Tasks B - D
 
